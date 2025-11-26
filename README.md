@@ -51,7 +51,8 @@ python3 -m venv ./venv
 - This creates a virtual env for you to run python
 
 - Then activate it by entering the following into the command line:
-  windows
+
+windows
 
 ```
 source ./venv/Scripts/activate
