@@ -16,7 +16,7 @@ Here's the gist:
 - There is a folder in _./src_ for each day with a template jupyter notebook and an empty input file.
 - Try to solve the problem and enter your output into the site and see if it's right.
 - The site will tell you how off you are from the right answer.
-- Everyone has different solutions, so no use asking other's for theirs
+- Everyone has different solutions, so no use asking someone else for their answer.
 
 Read more about it here --> [Advent of Code](https://adventofcode.com/2025/about)
 
