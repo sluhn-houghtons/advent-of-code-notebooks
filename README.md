@@ -1,4 +1,4 @@
-# 🎄 ADVENT OF CODE 2025 🎅
+# 🎄 ADVENT OF CODE 🎅
 This is a template repo for admin of code using jupyter notebooks with python.
 You can participate with any programming language--not just python.
 If you would like to use this template, please fork this repo on Github so you can commit your own solutions.
@@ -13,7 +13,7 @@ Here's the gist:
 - The site will tell you how off you are from the right answer.
 - Everyone has different solutions, so no use asking other's for theirs
 
-Read more about it here --> [Advent of Code 2025](https://adventofcode.com/2025/about)
+Read more about it here --> [Advent of Code](https://adventofcode.com/2025/about)
 
 ## Should you use AI?
 Using AI for AOC defeats the purpose of problem solving and learning. Don't be a vibe-scrooge!
